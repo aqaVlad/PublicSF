@@ -1,2 +1,0 @@
-git merge			- слияние веток;
-git push --set-upstream origin 	- добавляет ветку на сервер
